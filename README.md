@@ -27,10 +27,6 @@
      npm run dev
      ```
 
-## 👤 Demo Login
-- Email: demo@user.com
-- Password: 12345678
-
 ## ✨ Extra Features (Optional)
 - Profile image upload (Multer or Cloudinary)
 - Edit profile
