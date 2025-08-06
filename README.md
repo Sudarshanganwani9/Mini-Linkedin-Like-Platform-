@@ -1,4 +1,4 @@
-# Mini LinkedIn-Like Platform
+## Mini LinkedIn-Like Platform
 
 A mini community platform inspired by LinkedIn, built to demonstrate full-stack web development with features like user authentication, profile management, and a public feed of user posts.
 
@@ -89,5 +89,5 @@ Mini-Linkedin-Like-Platform--main/
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/Mini-Linkedin-Like-Platform.git
+git clone https://github.com/Sudarshanganwani9/Mini-Linkedin-Like-Platform-
 cd Mini-Linkedin-Like-Platform
